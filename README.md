@@ -1,31 +1,3 @@
-# Image Classifier in PyTorch
-
-Hello. Thank you for being here. This repository belongs to the youtube video [Image Classifier in PyTorch](https://youtu.be/igQeI29FIQM).
-If you haven't seen it, please consider watching the videos, to get a better understanding of this code.
-
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=igQeI29FIQM" target="_blank">
-    <img src="http://i3.ytimg.com/vi/igQeI29FIQM/hqdefault.jpg" alt="Image Classifier in PyTorch">
-  </a>
-</p>
-
-## Content
-
-This repository contains the Jupyter Notebook created in the video.
-
-## How to run
-
-1. Install the dependencies
-
-```bash
-pip3 install jupyter
-```
-
-2. Start the Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-3. Open the notebook and run the cells.
+<img width="493" height="370" alt="cifar10" src="https://github.com/user-attachments/assets/d7f6d157-40cb-439a-ab5a-ec32eb115e72" />
+<img width="574" height="297" alt="image" src="https://github.com/user-attachments/assets/25c536ed-f60a-4a38-bc92-2e5a08c5bf6e" />
+<img width="570" height="295" alt="image" src="https://github.com/user-attachments/assets/637cbe8c-1b06-4773-b347-85d85102ec8e" />
